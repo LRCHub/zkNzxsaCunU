@@ -1,128 +1,64 @@
 {
   "version": 1,
-  "base_track": "春雷 - Shunrai",
-  "base_artist": "Kenshi Yonezu",
-  "createdAt": "2026-02-12T06:48:55.787123Z",
+  "base_track": "花に嵐",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-02-22T16:12:58.135162Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "春雷",
-      "artist": "米津玄師",
+      "title": "花に嵐",
+      "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/01_春雷_米津玄師.lrc"
+      "path": "select/01_花に嵐_Kenshi_Yonezu.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Shunrai [春雷]",
-      "artist": "Haru Nemuri",
+      "title": "花に嵐",
+      "artist": "米津玄師",
       "has_synced": true,
-      "path": "select/02_Shunrai_[春雷]_Haru_Nemuri.lrc"
+      "path": "select/02_花に嵐_米津玄師.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "春雷",
-      "artist": "Kenshi Yonezu",
+      "title": "花に嵐",
+      "artist": "米津玄師",
       "has_synced": true,
-      "path": "select/03_春雷_Kenshi_Yonezu.lrc"
+      "path": "select/03_花に嵐_米津玄師.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "春雷",
-      "artist": "Kenshi Yonezu",
+      "title": "花に嵐",
+      "artist": "Yonezu Kenshi",
       "has_synced": true,
-      "path": "select/04_春雷_Kenshi_Yonezu.lrc"
+      "path": "select/04_花に嵐_Yonezu_Kenshi.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "春雷",
-      "artist": "Teresa Teng",
+      "title": "花に嵐",
+      "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/05_春雷_Teresa_Teng.lrc"
+      "path": "select/05_花に嵐_Kenshi_Yonezu.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "春雷",
-      "artist": "ふきのとう",
-      "has_synced": true,
-      "path": "select/06_春雷_ふきのとう.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "春雷",
-      "artist": "邓丽君",
-      "has_synced": true,
-      "path": "select/07_春雷_邓丽君.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "春雷",
-      "artist": "米津玄師",
-      "has_synced": true,
-      "path": "select/08_春雷_米津玄師.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "春雷",
-      "artist": "米津玄师",
-      "has_synced": true,
-      "path": "select/09_春雷_米津玄师.lrc"
-    },
-    {
-      "id": "lrclib_10",
-      "source": "lrclib",
-      "title": "春雷",
-      "artist": "邓丽君",
-      "has_synced": true,
-      "path": "select/10_春雷_邓丽君.lrc"
-    },
-    {
-      "id": "lrclib_11",
-      "source": "lrclib",
-      "title": "春雷",
-      "artist": "邓丽君",
-      "has_synced": false,
-      "path": "select/11_春雷_邓丽君.txt"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "春雷",
-      "artist": "米津玄師",
-      "has_synced": true,
-      "path": "select/12_春雷_米津玄師.lrc"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "Shunrai (春雷)",
+      "title": "花に嵐 / Hanani Arashi",
       "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/13_Shunrai_(春雷)_Kenshi_Yonezu.lrc"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "米津玄師 - 春雷   Kenshi Yonezu - Shunrai",
-      "artist": "Kenshi Yonezu  米津玄師",
-      "has_synced": true,
-      "path": "select/14_米津玄師_-_春雷_Kenshi_Yonezu_-_Shunrai_Kenshi_Yonezu_米津玄師.lrc"
+      "path": "select/06_花に嵐___Hanani_Arashi_Kenshi_Yonezu.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "春雷",
+      "title": "花に嵐",
       "artist": "米津玄師",
       "has_synced": false,
-      "path": "select/pl_01_春雷_米津玄師.txt"
+      "path": "select/pl_01_花に嵐_米津玄師.txt"
     }
   ]
 }
