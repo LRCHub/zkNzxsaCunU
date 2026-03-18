@@ -1,64 +1,32 @@
 {
   "version": 1,
-  "base_track": "花に嵐",
+  "base_track": "シンデレラグレイ",
   "base_artist": "米津玄師",
-  "createdAt": "2026-02-22T16:12:58.135162Z",
+  "createdAt": "2026-03-18T07:02:38.918477Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "花に嵐",
+      "title": "シンデレラグレイ",
       "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/01_花に嵐_Kenshi_Yonezu.lrc"
+      "path": "select/01_シンデレラグレイ_Kenshi_Yonezu.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "花に嵐",
+      "title": "シンデレラグレイ",
       "artist": "米津玄師",
       "has_synced": true,
-      "path": "select/02_花に嵐_米津玄師.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "花に嵐",
-      "artist": "米津玄師",
-      "has_synced": true,
-      "path": "select/03_花に嵐_米津玄師.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "花に嵐",
-      "artist": "Yonezu Kenshi",
-      "has_synced": true,
-      "path": "select/04_花に嵐_Yonezu_Kenshi.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "花に嵐",
-      "artist": "Kenshi Yonezu",
-      "has_synced": true,
-      "path": "select/05_花に嵐_Kenshi_Yonezu.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "花に嵐 / Hanani Arashi",
-      "artist": "Kenshi Yonezu",
-      "has_synced": true,
-      "path": "select/06_花に嵐___Hanani_Arashi_Kenshi_Yonezu.lrc"
+      "path": "select/02_シンデレラグレイ_米津玄師.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "花に嵐",
+      "title": "シンデレラグレイ",
       "artist": "米津玄師",
       "has_synced": false,
-      "path": "select/pl_01_花に嵐_米津玄師.txt"
+      "path": "select/pl_01_シンデレラグレイ_米津玄師.txt"
     }
   ]
 }
