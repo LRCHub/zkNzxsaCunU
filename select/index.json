@@ -1,120 +1,32 @@
 {
   "version": 1,
-  "base_track": "米津玄師 - 春雷   Kenshi Yonezu - Shunrai",
+  "base_track": "シンデレラグレイ",
   "base_artist": "米津玄師",
-  "createdAt": "2026-03-29T16:30:35.613549Z",
+  "createdAt": "2026-03-30T10:56:54.638494Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "米津玄師  Kenshi Yonezu  - Lemon",
+      "title": "シンデレラグレイ",
       "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/01_米津玄師_Kenshi_Yonezu_-_Lemon_Kenshi_Yonezu.lrc"
+      "path": "select/01_シンデレラグレイ_Kenshi_Yonezu.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "米津玄師  Kenshi Yonezu  - Lemon",
+      "title": "シンデレラグレイ",
       "artist": "米津玄師",
       "has_synced": true,
-      "path": "select/02_米津玄師_Kenshi_Yonezu_-_Lemon_米津玄師.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "米津玄師  - orion , Kenshi Yonezu",
-      "artist": "Kenshi Yonezu",
-      "has_synced": true,
-      "path": "select/03_米津玄師_-_orion_,_Kenshi_Yonezu_Kenshi_Yonezu.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "米津玄師  Kenshi Yonezu  - Lemon",
-      "artist": "Kenshi Yonezu",
-      "has_synced": true,
-      "path": "select/04_米津玄師_Kenshi_Yonezu_-_Lemon_Kenshi_Yonezu.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "DAOKO × 米津玄師『打上花火』MUSIC VIDEO",
-      "artist": "DAOKO",
-      "has_synced": true,
-      "path": "select/05_DAOKO_×_米津玄師『打上花火』MUSIC_VIDEO_DAOKO.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "米津玄師 MV「 灰色と青（ ＋菅田将暉 ）」 (feat. Masaki Suda)",
-      "artist": "Kenshi Yonezu",
-      "has_synced": true,
-      "path": "select/06_米津玄師_MV「_灰色と青(_+菅田将暉_)」_(feat._Masaki_Suda)_Kenshi_Yonezu.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "NANIMONO (feat. 米津玄師)",
-      "artist": "Yasutaka Nakata/Kenshi Yonezu",
-      "has_synced": true,
-      "path": "select/07_NANIMONO_(feat._米津玄師)_Yasutaka_Nakata_Kenshi_Yonezu.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "NANIMONO (feat. 米津玄師)",
-      "artist": "Yasutaka Nakata; Kenshi Yonezu",
-      "has_synced": true,
-      "path": "select/08_NANIMONO_(feat._米津玄師)_Yasutaka_Nakata;_Kenshi_Yonezu.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "NANIMONO (feat. 米津玄師)",
-      "artist": "Yasutaka Nakata",
-      "has_synced": true,
-      "path": "select/09_NANIMONO_(feat._米津玄師)_Yasutaka_Nakata.lrc"
-    },
-    {
-      "id": "lrclib_10",
-      "source": "lrclib",
-      "title": "NANIMONO (feat. 米津玄師) - Danny L Harle remix",
-      "artist": "Yasutaka Nakata",
-      "has_synced": true,
-      "path": "select/10_NANIMONO_(feat._米津玄師)_-_Danny_L_Harle_remix_Yasutaka_Nakata.lrc"
-    },
-    {
-      "id": "lrclib_11",
-      "source": "lrclib",
-      "title": "米津玄師/未知/米津玄師 - Lemon",
-      "artist": "米津玄師",
-      "has_synced": true,
-      "path": "select/11_米津玄師_未知_米津玄師_-_Lemon_米津玄師.lrc"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "Kenshi Yonezu (米津玄師) - Lemon ┃Cover by Raon Lee",
-      "artist": "Raon",
-      "has_synced": true,
-      "path": "select/12_Kenshi_Yonezu_(米津玄師)_-_Lemon_┃Cover_by_Raon_Lee_Raon.lrc"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "米津玄師 - 春雷   Kenshi Yonezu - Shunrai",
-      "artist": "Kenshi Yonezu  米津玄師",
-      "has_synced": true,
-      "path": "select/13_米津玄師_-_春雷_Kenshi_Yonezu_-_Shunrai_Kenshi_Yonezu_米津玄師.lrc"
+      "path": "select/02_シンデレラグレイ_米津玄師.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "春雷",
+      "title": "シンデレラグレイ",
       "artist": "米津玄師",
       "has_synced": false,
-      "path": "select/pl_01_春雷_米津玄師.txt"
+      "path": "select/pl_01_シンデレラグレイ_米津玄師.txt"
     }
   ]
 }
